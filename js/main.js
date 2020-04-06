@@ -15,4 +15,7 @@
 
 // ignore:end
 
-console.log("Hello world");
+window.addEventListener("load", () => {
+    // initialize application
+    console.log("Hello world");
+});
