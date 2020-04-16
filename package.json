@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "git_tutorial",
+  "version": "1.0.0",
+  "description": "This repo is for my Git tutorials.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "jeefo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
